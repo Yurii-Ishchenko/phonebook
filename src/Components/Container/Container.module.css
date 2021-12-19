@@ -1,0 +1,9 @@
+.container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-image: url('../../images/kub_chelovechek_vitaminki_smajly_104936_1920x1080.jpg');
+  background-size: cover;
+}

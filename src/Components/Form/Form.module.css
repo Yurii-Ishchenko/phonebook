@@ -1,0 +1,26 @@
+/* .form {
+  padding: 20px 15px 20px 15px;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid black;
+  width: 300px;
+}
+.btn {
+  width: 100px;
+}
+
+.label {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 30px;
+}
+.input {
+  width: 200px;
+} */
+
+.btnContainer {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
